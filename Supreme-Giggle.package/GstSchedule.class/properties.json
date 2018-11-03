@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "MarkNelson 11/3/2018 10:02",
+	"super" : "Object",
+	"category" : "Supreme-Giggle",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workoutDays"
+	],
+	"name" : "GstSchedule",
+	"type" : "normal"
+}
